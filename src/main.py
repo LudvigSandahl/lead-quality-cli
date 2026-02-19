@@ -100,8 +100,10 @@ def main():
     # Dry-run: write results to disk (no network calls).
     print(f"Loaded rows: {len(rows)}")
     print(f"Valid: {len(deduped)} | Invalid: {len(invalid)} | Duplicates: {len(duplicates)}")
-    print("Wrote out/payload.json and out/report.json")
 
+    print("Output:")
+    print("- out/payload.json")
+    print("- out/report.json")
 
 if __name__ == "__main__":
     main()
