@@ -208,4 +208,6 @@ __marimo__/
 # PyCharm
 .idea/
 *.iml
+out/
+
 

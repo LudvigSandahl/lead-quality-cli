@@ -1,0 +1,11 @@
+first_name,last_name,email,company,notes
+Ludvig,Sandahl,luddesandahl@gmail.com,Northwind Partners,"Met at a tech fair in Stockholm"
+Sara,Nilsson,sara.nilsson@outlook.com,Brightfield Analytics,"Interested in integrations and data quality"
+Alex,Johansson,alex.johansson@gmail.com,Blue River Logistics,"Asked about CRM customization"
+Emma,Lindgren,emma.lindgren@outlook.com,Atlas Consulting,"Wants a quick proof-of-concept"
+James,Carter,james.carter@gmail.com,Orchard Systems,"Needs help importing contact lists"
+Olivia,Brown,olivia.brown@outlook.com,Evergreen Software,"Curious about automation triggers"
+Daniel,Andersson,daniel.andersson@gmail.com,Summit Retail,"Wants reporting from synced data"
+Linda,Eriksson,linda.eriksson@outlook.com,HarborTech,"Duplicate email test"
+Linda,Eriksson,linda.eriksson@outlook.com,HarborTech,"Duplicate email test (same email)"
+,Novak,not-an-email,Polaris Solutions,"Missing first name + invalid email"
