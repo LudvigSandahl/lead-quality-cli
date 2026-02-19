@@ -1,0 +1,16 @@
+.venv/
+
+# Outputs
+out/
+
+# SQLite databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.idea/
+*.iml
+
+# Cache
+__pycache__/
